@@ -8,3 +8,4 @@ statsmodels>=0.14
 fairlearn>=0.10
 matplotlib>=3.7
 jupyter>=1.0
+scipy
